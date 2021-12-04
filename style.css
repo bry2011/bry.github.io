@@ -11,8 +11,11 @@ h2{
 
 }
 img{
-	border-color: black;
-	border-width: 2px;
+	float: left;
+	width: 250px;
+	margin: 10px;
+	border-color: chocolate;
+	border-width: 6px;
 	border-style: solid;
-		
+	border-radius: 10px;
 }
