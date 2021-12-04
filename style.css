@@ -1,6 +1,5 @@
 body {
     background-color: yellow;
-	   
 }
 h1{
 	font-family: cursive;
@@ -12,5 +11,6 @@ h2{
 
 }
 img{
-	border-color: #000;
+	border-color: chocolate;
+	border-width: 2px;
 }
